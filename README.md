@@ -1,6 +1,4 @@
-# Doctor-Appointment-Booking-useing-Mern
-# NM ID - D484B5518C2A41390994105C77C56C22
-# 📖 Book a Doctor: Case Study
+# 📖 Book a Doctor: Case Study  # NM ID - D484B5518C2A41390994105C77C56C22
 
 A scenario-based walkthrough of a full-stack application for booking doctor appointments.
 
